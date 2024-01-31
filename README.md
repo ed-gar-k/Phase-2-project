@@ -58,7 +58,7 @@ To set up a Jupyter Notebook for analyzing the data:
 1. Install Anaconda which includes Jupyter Notebook, Python, and other data science packages. Visit [Anaconda's website](https://www.anaconda.com/products/distribution) and download the installer for your operating system.
 2. After installation, launch Anaconda Navigator and start Jupyter Notebook, or open a terminal (or command prompt) and type `jupyter notebook` to start the Jupyter Notebook server.
 3. Create a new Python notebook from the Jupyter dashboard.
-4. Import the required libraries (e.g., pandas, matplotlib, seaborn) at the beginning of your notebook.
+4. Import the required libraries (e.g., pandas, matplotlib, seaborn, Statsmodels) at the beginning of your notebook.
 5. Load your dataset using pandas, for example: `df = pd.read_csv('path_to_your_data.csv')`.
 6. Proceed with your data analysis and visualization.
 
