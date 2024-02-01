@@ -12,6 +12,8 @@
 - Student name: James Koli
 - Student name: Edgar Kiprono
 
+Scheduled project review date/time: 1/2/2024
+
 # Data Science Jobs Anlysis Project
 
 ## Business Problem
@@ -64,7 +66,9 @@ iii. **Hypothesis on Regional Salary Disparities:**
 
 
 
-### Data Understanding
+# Data Understanding
+<img src="Top-Data-Science-Jobs.png" alt="drawing" width="700"/>
+
 The data sources for this analysis will be pulled from two separate files.
 
 #### `data_sci_jobs.csv` (Main data source)
