@@ -66,9 +66,10 @@ ii. **Hypothesis on Work Experience and Salary:**
    - Null Hypothesis (H0): Work experience does not significantly impact salary levels.
    - Alternative Hypothesis (H1): Employees with more work experience command higher salaries.
 
-iii. **Hypothesis on Regional Salary Disparities:**
-   - Null Hypothesis (H0): There are no significant differences in salary distributions across various nations and regions.
-   - Alternative Hypothesis (H1): Salary distributions vary significantly across different nations and regions.
+iii. **Hypothesis on Company Size Salary Disparities:**
+   - Null Hypothesis (H0): ere are no significant differences in salary distributions across various company sizes
+   - Alternative Hypothesis (H1): Salary distributions vary significantly across different company sizes
+
 
 
 
