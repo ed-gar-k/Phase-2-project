@@ -1,6 +1,19 @@
 # Phase-2-project
 ![Alt text](<big data-1.jpg>)
 
+## Moringa Phase 2 Project Submission
+
+#### GROUP 4:
+
+- Student name: Margaret Thiga
+- Student name: Pete Njagi
+- Student name: Jeremy Ngugi
+- Student name: Esther Omulokoli
+- Student name: James Koli
+- Student name: Edgar Kiprono
+
+Scheduled project review date/time: 1/2/2024
+
 # Data Science Jobs Anlysis Project
 
 ## Business Problem
@@ -51,6 +64,51 @@ iii. **Hypothesis on Regional Salary Disparities:**
    - Null Hypothesis (H0): There are no significant differences in salary distributions across various nations and regions.
    - Alternative Hypothesis (H1): Salary distributions vary significantly across different nations and regions.
 
+
+
+# Data Understanding
+<img src="Top-Data-Science-Jobs.png" alt="drawing" width="700"/>
+
+The data sources for this analysis will be pulled from two separate files.
+
+#### `data_sci_jobs.csv` (Main data source)
+#### `ds_salaries.csv` 
+* **Source**: This dataset comes from [`https://www.kaggle.com/datasets/georgejnr/advertised-data-science-jobs-dataset`](https://www.kaggle.com/datasets/georgejnr/advertised-data-science-jobs-dataset), a "free and open public domain data source"
+* **Contents**: This dataset comprises data on data science information, vacancies in the united states and other countries advertised on Glassdoor's website. It contains information of the advertised company's name, the job title, estimated salary and the location of the job
+
+#### Univariate Analysis
+**Salaries in USD= unit of analysis**
+
+**Unique identifiers:**
+experience_level : 4
+employment_type : 4
+job_title : 50
+salary_currency : 17
+employee_residence : 57
+remote_ratio : 3
+company_location : 50
+company_size : 3
+
+## Regression Analysis
+
+### Data Visualizations
+<img src="/Images/NotebookExports/1.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/2.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/3.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/4.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/5.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/6.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/7.png" alt="drawing" width="500"/>
+
+<img src="/Images/NotebookExports/8.png" alt="drawing" width="500"/>
+
+
 ## Setup for Jupyter Notebook
 
 To set up a Jupyter Notebook for analyzing the data:
@@ -64,13 +122,4 @@ To set up a Jupyter Notebook for analyzing the data:
 
 For more detailed instructions, you can refer to the [official Jupyter documentation](https://jupyter.readthedocs.io/en/latest/).
 
-## Moringa Phase 2 Project Submission
 
-#### GROUP 4:
-
-- Student name: Margaret Thiga
-- Student name: Pete Njagi
-- Student name: Jeremy Ngugi
-- Student name: Esther Omulokoli
-- Student name: James Koli
-- Student name: Edgar Kiprono
