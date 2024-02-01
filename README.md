@@ -15,6 +15,12 @@
 Scheduled project review date/time: 1/2/2024
 
 # Data Science Jobs Anlysis Project
+#### Important Project Files:
+
+1. Group4.ipynb (Main Juypter document)
+2. Presentation.pdf (Presentation)
+3. Data_sci_jobs.csv (Main Data)
+4. Optional Project Pdf
 
 ## Business Problem
 
